@@ -17,7 +17,7 @@
 			<tbody>
 				<tr>
 					<td class="id">SKD_RF_1</td>
-					<td>El sistema deberá permitir agregar, modificar requerimientos, solo cuando valide que el proyecto se encuentra activo.</td>
+					<td>El sistema deberá permitir agregar requerimientos, solo cuando valide que el proyecto se encuentra activo.</td>
 					<td>Funcional</td>
 					<td>Alta</td>
                     <td>
