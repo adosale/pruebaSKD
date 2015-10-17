@@ -3,7 +3,6 @@
     <title>Seccion de Inicio</title>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="contenidoCentral" runat="server">
-    
     <div class="table-responsive">
 	    <table id="table-requerimientos" class="table table-striped table-hover">
 			<thead>
